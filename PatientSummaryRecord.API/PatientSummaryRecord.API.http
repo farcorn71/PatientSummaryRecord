@@ -1,0 +1,6 @@
+@PatientSummaryRecord.API_HostAddress = http://localhost:5279
+
+GET {{PatientSummaryRecord.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

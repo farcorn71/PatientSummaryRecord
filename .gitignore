@@ -1,0 +1,43 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Visual Studio settings
+.vs/
+
+# Rider settings
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Entity Framework migrations (optional)
+Migrations/
+
+# SQLite database file (optional)
+*.db
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+.env
