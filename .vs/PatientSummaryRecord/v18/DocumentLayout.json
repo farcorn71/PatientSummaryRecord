@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.application\\exceptions\\patientnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|solutionrelative:patientsummaryrecord.application\\exceptions\\patientnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0520F9-7EB9-4C1C-B6D0-3415C31D56FF}|PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.infrastructure\\repositories\\sqlitepatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0520F9-7EB9-4C1C-B6D0-3415C31D56FF}|PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj|solutionrelative:patientsummaryrecord.infrastructure\\repositories\\sqlitepatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0520F9-7EB9-4C1C-B6D0-3415C31D56FF}|PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.infrastructure\\data\\patientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0520F9-7EB9-4C1C-B6D0-3415C31D56FF}|PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj|solutionrelative:patientsummaryrecord.infrastructure\\data\\patientdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C0520F9-7EB9-4C1C-B6D0-3415C31D56FF}|PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C0520F9-7EB9-4C1C-B6D0-3415C31D56FF}|PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj|solutionrelative:patientsummaryrecord.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A81ED931-2CF9-4E8D-9D5C-BA2966B3D8B2}|PatientSummaryRecord.Domain\\PatientSummaryRecord.Domain.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A81ED931-2CF9-4E8D-9D5C-BA2966B3D8B2}|PatientSummaryRecord.Domain\\PatientSummaryRecord.Domain.csproj|solutionrelative:patientsummaryrecord.domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|solutionrelative:patientsummaryrecord.application\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.application\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|solutionrelative:patientsummaryrecord.application\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.application\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|solutionrelative:patientsummaryrecord.application\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E18870-2E97-4C9D-8B8F-4277BCF05A70}|PatientSummaryRecord.Tests\\PatientSummaryRecord.Tests.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.tests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E18870-2E97-4C9D-8B8F-4277BCF05A70}|PatientSummaryRecord.Tests\\PatientSummaryRecord.Tests.csproj|solutionrelative:patientsummaryrecord.tests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C0520F9-7EB9-4C1C-B6D0-3415C31D56FF}|PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.infrastructure\\patientsummaryrecord.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5C0520F9-7EB9-4C1C-B6D0-3415C31D56FF}|PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj|solutionrelative:patientsummaryrecord.infrastructure\\patientsummaryrecord.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -18,21 +70,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PatientSummaryRecord.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj",
-              "RelativeToolTip": "PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-26T22:29:43.904Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
@@ -55,7 +94,189 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PatientSummaryRecord.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-26T23:40:45.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\Data\\PatientDbContext.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Infrastructure\\Data\\PatientDbContext.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\Data\\PatientDbContext.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Infrastructure\\Data\\PatientDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:24:10.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.API\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "PatientSummaryRecord.API\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:15:02.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "PatientSummaryRecord.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:14:39.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlitePatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\Repositories\\SqlitePatientRepository.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Infrastructure\\Repositories\\SqlitePatientRepository.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\Repositories\\SqlitePatientRepository.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Infrastructure\\Repositories\\SqlitePatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:12:49.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:08:38.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Application\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Application\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:08:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Program.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.API\\Program.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Program.cs",
+              "RelativeToolTip": "PatientSummaryRecord.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:02:43.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Tests\\PatientServiceTests.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Tests\\PatientServiceTests.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Tests\\PatientServiceTests.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Tests\\PatientServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:00:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PatientNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Exceptions\\PatientNotFoundException.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Application\\Exceptions\\PatientNotFoundException.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Exceptions\\PatientNotFoundException.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Application\\Exceptions\\PatientNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:57:40.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Application\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Services\\PatientService.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Application\\Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:57:22.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Application\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Application\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:56:49.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "PatientSummaryRecord.Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:37:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientSummaryRecord.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj",
+              "RelativeToolTip": "PatientSummaryRecord.Infrastructure\\PatientSummaryRecord.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T22:29:43.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
