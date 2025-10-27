@@ -1,8 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PatientSummaryRecord.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace PatientSummaryRecord.Infrastructure.Data
 {
@@ -12,6 +9,7 @@ namespace PatientSummaryRecord.Infrastructure.Data
 
         public PatientDbContext(DbContextOptions<PatientDbContext> options) : base(options) { }
 
+        //this method helped me to seed data into the sql lite db 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Patient>().HasData(

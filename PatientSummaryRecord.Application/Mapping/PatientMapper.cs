@@ -7,7 +7,7 @@ namespace PatientSummaryRecord.Application.Mapping
 
     namespace PatientSummaryRecord.Application.Mapping
     {
-        //TODO: Use AutoMapper for more complex mappings in the future
+        //TODO: Use AutoMapper for more complex mappings in the future or if i want to do a bigger project
         public static class PatientMapper
         {
             public static PatientDto MapToDto(Patient patient)

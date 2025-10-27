@@ -25,7 +25,7 @@ builder.Services.AddEndpointsApiExplorer();
 
 
 var app = builder.Build();
-
+//could use migraton in bigger apps
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<PatientDbContext>();

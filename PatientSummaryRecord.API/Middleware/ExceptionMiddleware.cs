@@ -3,6 +3,7 @@ using PatientSummaryRecord.Application.Exceptions;
 
 namespace PatientSummaryRecord.API.Middleware
 {
+    //This class helps me to structure my exception handling cleaner. could even send as a response following a standard or defined format
     public class ExceptionMiddleware
     {
         private readonly RequestDelegate _next;
