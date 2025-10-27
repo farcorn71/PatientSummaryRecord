@@ -8,7 +8,7 @@ Built with SQLite which gets seeded on first application run, Serilog logging, a
 
 ### 1. Clone the Repository
 
-```bash
+```On Powershel or Command Prompt run:
 git clone https://github.com/farcorn71/PatientSummaryRecord.git
 cd PatientSummaryRecord
 dotnet restore
