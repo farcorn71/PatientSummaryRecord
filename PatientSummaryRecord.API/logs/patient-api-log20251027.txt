@@ -1,0 +1,29 @@
+2025-10-27 00:31:47.311 +00:00 [INF] Executed DbCommand (33ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "type" = 'table' AND "rootpage" IS NOT NULL;
+2025-10-27 00:31:48.256 +00:00 [INF] Now listening on: https://localhost:7054
+2025-10-27 00:31:48.281 +00:00 [INF] Now listening on: http://localhost:5279
+2025-10-27 00:31:48.392 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-27 00:31:48.396 +00:00 [INF] Hosting environment: Development
+2025-10-27 00:31:48.398 +00:00 [INF] Content root path: C:\Users\CORNELIUS\Documents\localrepo\interviewtest\PatientSummaryRecord\PatientSummaryRecord.API
+2025-10-27 00:31:49.202 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7054/ - null null
+2025-10-27 00:31:49.598 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7054/ - 404 null null 428.6015ms
+2025-10-27 00:31:49.618 +00:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7054/, Response status code: 404
+2025-10-27 00:31:57.189 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7054/api/patients/1 - null null
+2025-10-27 00:31:57.210 +00:00 [INF] Executing endpoint 'PatientSummaryRecord.API.Controllers.PatientsController.GetPatient (PatientSummaryRecord.API)'
+2025-10-27 00:31:57.251 +00:00 [INF] Route matched with {action = "GetPatient", controller = "Patients"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetPatient(Int32) on controller PatientSummaryRecord.API.Controllers.PatientsController (PatientSummaryRecord.API).
+2025-10-27 00:31:57.786 +00:00 [INF] Executed DbCommand (6ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT "p"."Id", "p"."DateOfBirth", "p"."GPPractice", "p"."NHSNumber", "p"."Name"
+FROM "Patients" AS "p"
+WHERE "p"."Id" = @__p_0
+LIMIT 1
+2025-10-27 00:31:57.865 +00:00 [INF] Executing OkObjectResult, writing value of type 'PatientSummaryRecord.Application.DTOs.PatientDto'.
+2025-10-27 00:31:57.907 +00:00 [INF] Executed action PatientSummaryRecord.API.Controllers.PatientsController.GetPatient (PatientSummaryRecord.API) in 645.7168ms
+2025-10-27 00:31:57.913 +00:00 [INF] Executed endpoint 'PatientSummaryRecord.API.Controllers.PatientsController.GetPatient (PatientSummaryRecord.API)'
+2025-10-27 00:31:57.929 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7054/api/patients/1 - 200 null application/json; charset=utf-8 739.5696ms
+2025-10-27 00:32:03.804 +00:00 [INF] Request starting HTTP/2 GET https://localhost:7054/api/patients/-1 - null null
+2025-10-27 00:32:03.822 +00:00 [INF] Executing endpoint 'PatientSummaryRecord.API.Controllers.PatientsController.GetPatient (PatientSummaryRecord.API)'
+2025-10-27 00:32:03.835 +00:00 [INF] Route matched with {action = "GetPatient", controller = "Patients"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetPatient(Int32) on controller PatientSummaryRecord.API.Controllers.PatientsController (PatientSummaryRecord.API).
+2025-10-27 00:32:03.855 +00:00 [INF] Executing BadRequestObjectResult, writing value of type 'PatientSummaryRecord.API.Models.ErrorResponse'.
+2025-10-27 00:32:03.866 +00:00 [INF] Executed action PatientSummaryRecord.API.Controllers.PatientsController.GetPatient (PatientSummaryRecord.API) in 16.9787ms
+2025-10-27 00:32:03.878 +00:00 [INF] Executed endpoint 'PatientSummaryRecord.API.Controllers.PatientsController.GetPatient (PatientSummaryRecord.API)'
+2025-10-27 00:32:03.892 +00:00 [INF] Request finished HTTP/2 GET https://localhost:7054/api/patients/-1 - 400 null application/json; charset=utf-8 88.498ms

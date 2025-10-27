@@ -4,9 +4,15 @@ using PatientSummaryRecord.Application.Interfaces;
 using PatientSummaryRecord.Application.Services;
 using PatientSummaryRecord.Infrastructure.Data;
 using PatientSummaryRecord.Infrastructure.Repositories;
+using Serilog;
+
+Log.Logger = new LoggerConfiguration()
+    .WriteTo.Console()
+    .WriteTo.File("logs/patient-api-log.txt", rollingInterval: RollingInterval.Day)
+    .CreateLogger();
 
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Host.UseSerilog();
 
 // Add services to the container.
 
@@ -16,6 +22,7 @@ builder.Services.AddScoped<IPatientRepository, SqlitePatientRepository>();
 builder.Services.AddScoped<IPatientService, PatientService>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+
 
 var app = builder.Build();
 

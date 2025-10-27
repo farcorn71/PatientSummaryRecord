@@ -3,6 +3,9 @@ bin/
 obj/
 out/
 
+/bin/
+/obj/
+
 # User-specific files
 *.user
 *.suo
@@ -31,7 +34,6 @@ packages/
 
 # Logs
 *.log
-
 
 
 # Secrets

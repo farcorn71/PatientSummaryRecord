@@ -24,7 +24,8 @@ out/
 packages/
 .nuget/
 
-
+# Entity Framework migrations (optional)
+Migrations/
 
 # SQLite database file (optional)
 *.db
@@ -32,7 +33,8 @@ packages/
 # Logs
 *.log
 
-
+# Test results
+TestResults/
 
 # Secrets
 appsettings.Development.json
