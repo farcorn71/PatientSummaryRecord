@@ -46,4 +46,5 @@ public class PatientServiceTests
         // Act & Assert
         Assert.Throws<PatientNotFoundException>(() => service.GetPatientSummary(99));
     }
+}
 
