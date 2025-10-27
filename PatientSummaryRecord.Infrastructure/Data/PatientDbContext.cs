@@ -15,9 +15,9 @@ namespace PatientSummaryRecord.Infrastructure.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Patient>().HasData(
-                new Patient { Id = 1, NHSNumber = "1234567890", Name = "Alice Smith", DateOfBirth = new DateTime(1985, 4, 12), GPPractice = "Greenwood Clinic" },
-                new Patient { Id = 2, NHSNumber = "9876543210", Name = "Bob Johnson", DateOfBirth = new DateTime(1978, 9, 23), GPPractice = "Riverside Health" },
-                new Patient { Id = 3, NHSNumber = "5555555555", Name = "Charlie Lee", DateOfBirth = new DateTime(1990, 1, 5), GPPractice = "Hilltop Medical" }
+                new Patient { Id = 1, NHSNumber = "1234567890", Name = "Lloyd Smith", DateOfBirth = new DateTime(1985, 4, 12), GPPractice = "Northumbria Clinic" },
+                new Patient { Id = 2, NHSNumber = "9876623210", Name = "Rodrigues Johnson", DateOfBirth = new DateTime(1976, 9, 23), GPPractice = "Southhumbria Health" },
+                new Patient { Id = 3, NHSNumber = "7755885566", Name = "Powell Lee", DateOfBirth = new DateTime(1990, 1, 5), GPPractice = "Westumbria Medical" }
             );
         }
     }

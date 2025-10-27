@@ -18,10 +18,10 @@ public class PatientServiceTests
         mockRepo.Setup(r => r.GetPatientById(1)).Returns(new Patient
         {
             Id = 1,
-            Name = "Alice Smith",
+            Name = "Cornelius Smith",
             NHSNumber = "1234567890",
             DateOfBirth = new DateTime(1985, 4, 12),
-            GPPractice = "Greenwood Clinic"
+            GPPractice = "Northumbria Healthcare"
         });
 
         var service = new PatientService(mockRepo.Object);
@@ -31,7 +31,7 @@ public class PatientServiceTests
 
         // Assert
         Assert.NotNull(result);
-        Assert.Equal("Alice Smith", result.Name);
+        Assert.Equal("Cornelius Smith", result.Name);
     }
 
     [Fact]
