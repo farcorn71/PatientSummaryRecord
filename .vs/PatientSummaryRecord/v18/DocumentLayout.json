@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5E18870-2E97-4C9D-8B8F-4277BCF05A70}|PatientSummaryRecord.Tests\\PatientSummaryRecord.Tests.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.tests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5E18870-2E97-4C9D-8B8F-4277BCF05A70}|PatientSummaryRecord.Tests\\PatientSummaryRecord.Tests.csproj|solutionrelative:patientsummaryrecord.tests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\patientsummaryrecord.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\patientsummaryrecord.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12752079-30EF-4493-952D-AEEC3A23F086}|PatientSummaryRecord.API\\PatientSummaryRecord.API.csproj|solutionrelative:patientsummaryrecord.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E18870-2E97-4C9D-8B8F-4277BCF05A70}|PatientSummaryRecord.Tests\\PatientSummaryRecord.Tests.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.tests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E18870-2E97-4C9D-8B8F-4277BCF05A70}|PatientSummaryRecord.Tests\\PatientSummaryRecord.Tests.csproj|solutionrelative:patientsummaryrecord.tests\\patientservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0CAF6E9-0B93-431F-B460-269713A0FAFF}|PatientSummaryRecord.Application\\PatientSummaryRecord.Application.csproj|c:\\users\\cornelius\\documents\\localrepo\\interviewtest\\patientsummaryrecord\\patientsummaryrecord.application\\mapping\\patientmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +62,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PatientSummaryRecord.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T00:18:24.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PatientSummaryRecord.API.http",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\PatientSummaryRecord.API.http",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.API\\PatientSummaryRecord.API.http",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\PatientSummaryRecord.API.http",
+              "RelativeToolTip": "PatientSummaryRecord.API\\PatientSummaryRecord.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-27T00:16:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PatientSummaryRecord.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\appsettings.json",
+              "RelativeToolTip": "PatientSummaryRecord.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T00:15:35.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PatientServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Tests\\PatientServiceTests.cs",
               "RelativeDocumentMoniker": "PatientSummaryRecord.Tests\\PatientServiceTests.cs",
               "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Tests\\PatientServiceTests.cs",
               "RelativeToolTip": "PatientSummaryRecord.Tests\\PatientServiceTests.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T00:08:20.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Program.cs",
               "RelativeDocumentMoniker": "PatientSummaryRecord.API\\Program.cs",
@@ -80,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PatientMapper.cs",
               "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.Application\\Mapping\\PatientMapper.cs",
               "RelativeDocumentMoniker": "PatientSummaryRecord.Application\\Mapping\\PatientMapper.cs",
@@ -93,26 +140,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "PatientSummaryRecord.API\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "PatientSummaryRecord.API\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T23:58:25.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PatientsController.cs",
               "DocumentMoniker": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Controllers\\PatientsController.cs",
               "RelativeDocumentMoniker": "PatientSummaryRecord.API\\Controllers\\PatientsController.cs",
               "ToolTip": "C:\\Users\\CORNELIUS\\Documents\\localrepo\\interviewtest\\PatientSummaryRecord\\PatientSummaryRecord.API\\Controllers\\PatientsController.cs",
               "RelativeToolTip": "PatientSummaryRecord.API\\Controllers\\PatientsController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T23:54:21.349Z",
               "EditorCaption": ""
